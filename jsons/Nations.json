@@ -214,9 +214,7 @@
         "innerColor": [178, 34, 34],
         "uniques": [
             "Starts with [Masonry]",
-            "[-20]% Unhappiness from number of cities",
-            "[+25]% Production towards [Wonders]",
-            "May build the [Great Wall] wonder"
+			"[+25]% Production when constructing [Wonders] wonders [in all cities]"
         ],
         "cities": [
             "Xianyang", "Luoyang", "Beijing", "Chang'an", "Anyang", "Nanjing", "Hangzhou", "Kaifeng", "Zhengzhou", "Taiyuan",
