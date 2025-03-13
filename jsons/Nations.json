@@ -101,6 +101,7 @@
 	{
 		"name": "Babylon",
 		"leaderName": "Hammurabi",
+		"style": "",
 		"adjective": [
 			"Babylonian"
 		],
@@ -146,19 +147,18 @@
 			"Agreed.",
 			"So be it."
 		],
-		"afterPeace": "Peace is restored; may it usher in a new era of prosperity.",
 		"tradeRequest": "Let us engage in trade that benefits both our peoples.",
-		"outerColor": [
-			0,
-			51,
-			102
-		],
 		"innerColor": [
 			255,
 			204,
 			102
 		],
-		"unique": [
+		"outerColor": [
+			0,
+			51,
+			102
+		],
+		"uniques": [
 			"Starts with [Writing]",
 			"[+50]% Great Person generation [in all cities]",
 			"[+20]% [Science] [in all cities]",
@@ -185,6 +185,7 @@
 			"Umma",
 			"Adab",
 			"Shuruppak"
-		]
+		],
+		"afterPeace": "Peace is restored; may it usher in a new era of prosperity."
 	}
 ]
