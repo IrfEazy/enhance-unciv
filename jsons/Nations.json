@@ -59,7 +59,7 @@
 			200,
 			200
 		],
-		"uniques": "MANIFEST_DESTINY",
+		"unique": "MANIFEST_DESTINY",
 		"cities": [
 			"The Hive",
 			"Q'Throczan",
