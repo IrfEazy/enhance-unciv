@@ -1,101 +1,101 @@
 [
 	{
-		"name": "Italy",
-		"leaderName": "Benito Mussolini",
+		"name": "Aliens",
+		"leaderName": "Zyxxyz",
 		"adjective": [
-			"Italian"
+			"alien"
 		],
 		"startBias": [
-			"Coast",
-			"Hill"
+			"Snow"
 		],
-		"preferredVictoryType": "Domination",
-		"startIntroPart1": "Salute to you, Duce Benito Mussolini, iron-willed leader of Fascist Italy. Under your guidance, the Italian people seek to restore the glory of ancient Rome and create a new empire on the Mediterranean.",
-		"startIntroPart2": "Duce, your people look to you to deliver the national revival promised by fascism. Will you build a powerful war machine, expand your territories, and establish Italy as a dominant world power? The future of the Italian empire is in your hands!",
-		"declaringWar": "The strength of Italy can no longer be contained! We shall restore the glory of Rome through conquest!",
-		"attacked": "You dare to attack the Italian nation? This will be your final mistake!",
-		"defeated": "The Fascist revolution has failed. But the Italian spirit will never be broken.",
-		"introduction": "I am Benito Mussolini, Duce of Italy. I speak for the Italian people and the glory of our nation.",
-		"neutralHello": "Greetings.",
+		"preferredVictoryType": "Scientific",
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": [
-			"Speak.",
-			"What do you propose?",
-			"I'm listening."
+			"Go on.",
+			"What do you say?",
+			"You may begin."
 		],
 		"neutralNo": [
-			"Italy refuses.",
-			"No, this is unacceptable.",
-			"The Italian people must decline."
+			"We absolutely refuse.",
+			"No!",
+			"I refuse."
 		],
 		"neutralYes": [
-			"Very well.",
-			"Italy accepts.",
-			"This is acceptable."
+			"Very good.",
+			"Of course, yes.",
+			"That is very good."
 		],
-		"hateHello": "What do you want?",
+		"hateHello": "What do you want now?",
 		"hateLetsHearIt": [
-			"Make it quick.",
-			"Speak if you must.",
-			"Get on with it."
+			"Speak!",
+			"What do you say?",
+			"Go on."
 		],
 		"hateNo": [
-			"Absolutely not!",
-			"Italy will never agree to this!",
-			"Your proposal is an insult!"
+			"That is not possible!",
+			"We are not agreeing to that!",
+			"I beg your pardon?"
 		],
 		"hateYes": [
-			"We will accept, for now.",
-			"Very well, but do not test our patience.",
-			"The Italian people reluctantly agree."
+			"That is fine.",
+			"That is good enough.",
+			"Very well..."
 		],
-		"afterPeace": "Remember that Italy's ambitions are merely postponed, not abandoned.",
-		"tradeRequest": "Italy proposes a trade that will benefit both our nations.",
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"outerColor": [
-			0,
-			140,
-			69
+			16,
+			16,
+			16
 		],
 		"innerColor": [
-			220,
-			220,
-			220
+			255,
+			200,
+			200
 		],
-		"uniques": [
-			"[+1 Production] from every [Marble]",
-			"[+25]% Production when constructing [Military] buildings [in all cities]",
-			"[-25]% Culture cost of natural border growth [in all cities]"
-		],
+		"unique": "MANIFEST_DESTINY",
 		"cities": [
-			"Rome",
-			"Milan",
-			"Naples",
-			"Turin",
-			"Palermo",
-			"Genoa",
-			"Bologna",
-			"Florence",
-			"Venice",
-			"Bari",
-			"Catania",
-			"Verona",
-			"Messina",
-			"Padua",
-			"Trieste",
-			"Taranto",
-			"Brescia",
-			"Parma",
-			"Reggio Calabria",
-			"Modena",
-			"Livorno",
-			"Cagliari",
-			"Foggia",
-			"Reggio Emilia",
-			"Salerno",
-			"Perugia",
-			"Ferrara",
-			"Sassari",
-			"Latina",
-			"Gioia Tauro"
+			"The Hive",
+			"Q'Throczan",
+			"Q'Chovex",
+			"Q'Imphet",
+			"Q'Omphead",
+			"Q'Grecoks",
+			"Q'Vrelzieks",
+			"Q'Vronens",
+			"Q'Aerlae",
+			"Q'Phulnoith",
+			"Q'Creved",
+			"Q'Xirqen",
+			"Q'Gax",
+			"Q'Threqals",
+			"Q'Bhilmuk",
+			"Q'Mazea",
+			"Q'Zomirs",
+			"Q'Drorkrex",
+			"Q'Honkrath",
+			"Q'Zulgra",
+			"Q'Vahars",
+			"Q'Crindith",
+			"Q'Raavraes",
+			"Q'Bhoknais",
+			"Qho'Qru",
+			"Q'Dateatz",
+			"Q'Elnad",
+			"Q'Izien",
+			"Qol'Ell",
+			"Q'Dhihien",
+			"Q'Naquiel",
+			"Q'Ugneon",
+			"Q'Straquks",
+			"Q'Nulptr",
+			"Q'Ohfahl"
 		]
 	}
 ]
