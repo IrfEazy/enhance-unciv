@@ -188,39 +188,207 @@
 		],
 		"afterPeace": "Peace is restored; may it usher in a new era of prosperity."
 	},
-    {
-        "name": "China",
-        "leaderName": "Qin Shi Huang",
-        "adjective": ["Chinese"],
-        "startBias": ["Grassland", "Plains"],
-        "preferredVictoryType": "Domination",
-        "startIntroPart1": "Greetings, mighty Emperor Qin Shi Huang, unifier of China and builder of wonders.",
-        "startIntroPart2": "Your legacy of strength and unity has laid the foundation for a great civilization.",
-        "declaringWar": "Prepare for battle! The unyielding might of China shall prevail.",
-        "attacked": "You dare challenge the First Emperor? Retribution will be swift.",
-        "defeated": "Even the greatest of emperors must face destiny. My empire shall endure.",
-        "introduction": "I am Qin Shi Huang, the First Emperor of China. State your intentions.",
-        "neutralHello": "Welcome. Speak your mind.",
-        "neutralLetsHearIt": ["Proceed.", "What do you propose?", "I'm listening."],
-        "neutralNo": ["Unacceptable.", "I refuse.", "That cannot be agreed upon."],
-        "neutralYes": ["Agreed.", "That is acceptable.", "We have an accord."],
-        "hateHello": "State your business, if you must.",
-        "hateLetsHearIt": ["Speak quickly.", "What is it?", "Get to the point."],
-        "hateNo": ["Out of the question.", "Never.", "Absolutely not."],
-        "hateYes": ["Reluctantly, yes.", "I will concede this.", "You leave me no choice but to agree."],
-        "afterPeace": "Peace is restored. Let us rebuild and strengthen our empire.",
-        "tradeRequest": "China proposes a trade that will benefit both our nations.",
-        "outerColor": [255, 215, 0],
-        "innerColor": [178, 34, 34],
-        "uniques": [
-            "Starts with [Masonry]",
+	{
+		"name": "China",
+		"leaderName": "Qin Shi Huang",
+		"adjective": [
+			"Chinese"
+		],
+		"startBias": [
+			"Grassland",
+			"Plains"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Greetings, mighty Emperor Qin Shi Huang, unifier of China and builder of wonders.",
+		"startIntroPart2": "Your legacy of strength and unity has laid the foundation for a great civilization.",
+		"declaringWar": "Prepare for battle! The unyielding might of China shall prevail.",
+		"attacked": "You dare challenge the First Emperor? Retribution will be swift.",
+		"defeated": "Even the greatest of emperors must face destiny. My empire shall endure.",
+		"introduction": "I am Qin Shi Huang, the First Emperor of China. State your intentions.",
+		"neutralHello": "Welcome. Speak your mind.",
+		"neutralLetsHearIt": [
+			"Proceed.",
+			"What do you propose?",
+			"I'm listening."
+		],
+		"neutralNo": [
+			"Unacceptable.",
+			"I refuse.",
+			"That cannot be agreed upon."
+		],
+		"neutralYes": [
+			"Agreed.",
+			"That is acceptable.",
+			"We have an accord."
+		],
+		"hateHello": "State your business, if you must.",
+		"hateLetsHearIt": [
+			"Speak quickly.",
+			"What is it?",
+			"Get to the point."
+		],
+		"hateNo": [
+			"Out of the question.",
+			"Never.",
+			"Absolutely not."
+		],
+		"hateYes": [
+			"Reluctantly, yes.",
+			"I will concede this.",
+			"You leave me no choice but to agree."
+		],
+		"afterPeace": "Peace is restored. Let us rebuild and strengthen our empire.",
+		"tradeRequest": "China proposes a trade that will benefit both our nations.",
+		"outerColor": [
+			255,
+			215,
+			0
+		],
+		"innerColor": [
+			178,
+			34,
+			34
+		],
+		"uniqueName": "Dynastic Cycle",
+		"uniques": [
+			"Starts with [Masonry]",
 			"[+25]% Production when constructing [Wonders] wonders [in all cities]"
-        ],
-        "cities": [
-            "Xianyang", "Luoyang", "Beijing", "Chang'an", "Anyang", "Nanjing", "Hangzhou", "Kaifeng", "Zhengzhou", "Taiyuan",
-            "Guangzhou", "Chengdu", "Suzhou", "Shenyang", "Xi'an", "Lanzhou", "Jinan", "Fuzhou", "Harbin", "Qingdao",
-            "Wuhan", "Tianjin", "Shijiazhuang", "Ningbo", "Ürümqi", "Lhasa", "Kunming", "Hefei", "Nanchang", "Changsha",
-            "Haikou", "Taipei", "Hong Kong", "Macau"
-        ]
-    }
+		],
+		"cities": [
+			"Xianyang",
+			"Luoyang",
+			"Beijing",
+			"Chang'an",
+			"Anyang",
+			"Nanjing",
+			"Hangzhou",
+			"Kaifeng",
+			"Zhengzhou",
+			"Taiyuan",
+			"Guangzhou",
+			"Chengdu",
+			"Suzhou",
+			"Shenyang",
+			"Xi'an",
+			"Lanzhou",
+			"Jinan",
+			"Fuzhou",
+			"Harbin",
+			"Qingdao",
+			"Wuhan",
+			"Tianjin",
+			"Shijiazhuang",
+			"Ningbo",
+			"Ürümqi",
+			"Lhasa",
+			"Kunming",
+			"Hefei",
+			"Nanchang",
+			"Changsha",
+			"Haikou",
+			"Taipei",
+			"Hong Kong",
+			"Macau"
+		]
+	},
+	{
+		"name": "Egypt",
+		"leaderName": "Ramesses II",
+		"adjective": [
+			"Egyptian"
+		],
+		"startBias": [
+			"Flood Plains"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "O mighty Ramesses II, Pharaoh of Egypt, your empire stands as a beacon of strength and grandeur.",
+		"startIntroPart2": "May your reign bring prosperity and eternal glory to the land of the Nile.",
+		"declaringWar": "You dare challenge the might of Egypt? Prepare to face our wrath!",
+		"attacked": "An unwise move against the sovereign of the Nile.",
+		"defeated": "The sands of time have buried our glory, but Egypt's legacy is eternal.",
+		"introduction": "I am Ramesses II, ruler of Egypt. State your intentions.",
+		"neutralHello": "Greetings from the land of the Pharaohs.",
+		"neutralLetsHearIt": [
+			"Speak your proposal.",
+			"What do you wish to discuss?",
+			"Proceed with your words."
+		],
+		"neutralNo": [
+			"Egypt cannot agree to this.",
+			"This proposal is unacceptable.",
+			"We must decline."
+		],
+		"neutralYes": [
+			"Egypt finds this agreeable.",
+			"We accept your terms.",
+			"This is satisfactory."
+		],
+		"hateHello": "What brings you before Pharaoh?",
+		"hateLetsHearIt": [
+			"Speak quickly.",
+			"State your business.",
+			"What is it you want?"
+		],
+		"hateNo": [
+			"Absolutely not.",
+			"Egypt refuses.",
+			"This is out of the question."
+		],
+		"hateYes": [
+			"We will agree, for now.",
+			"Egypt accepts, reluctantly.",
+			"Very well, but tread carefully."
+		],
+		"afterPeace": "Let there be peace, so our peoples may flourish.",
+		"tradeRequest": "Egypt offers this trade for our mutual benefit.",
+		"outerColor": [
+			212,
+			175,
+			55
+		],
+		"innerColor": [
+			0,
+			0,
+			0
+		],
+		"uniqueName": "Monument Building",
+		"uniques": [
+			"[20]% Production when constructing [Wonders] [in all cities]",
+			"[+1 Culture] from every [Monument]",
+			"[+1 Gold] from every [Monument]",
+			"[20]% Golden Age length"
+		],
+		"cities": [
+			"Pi-Ramesses",
+			"Thebes",
+			"Memphis",
+			"Heliopolis",
+			"Tanis",
+			"Abydos",
+			"Luxor",
+			"Karnak",
+			"Edfu",
+			"Kom Ombo",
+			"Philae",
+			"Elephantine",
+			"Herakleopolis",
+			"Amarna",
+			"Saqqara",
+			"Dashur",
+			"Meidum",
+			"Abu Simbel",
+			"Ramesseum",
+			"Per-Bastet",
+			"Per-Ra",
+			"Per-Atum",
+			"Per-Sopdu",
+			"Per-Wadjet",
+			"Per-Nemty",
+			"Per-Hathor",
+			"Per-Osiris",
+			"Per-Horus",
+			"Per-Anubis",
+			"Per-Ma'at"
+		]
+	}
 ]
