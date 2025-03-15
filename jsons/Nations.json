@@ -1,104 +1,5 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": [
-			"alien"
-		],
-		"startBias": [
-			"Snow"
-		],
-		"preferredVictoryType": "Scientific",
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": [
-			"Go on.",
-			"What do you say?",
-			"You may begin."
-		],
-		"neutralNo": [
-			"We absolutely refuse.",
-			"No!",
-			"I refuse."
-		],
-		"neutralYes": [
-			"Very good.",
-			"Of course, yes.",
-			"That is very good."
-		],
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": [
-			"Speak!",
-			"What do you say?",
-			"Go on."
-		],
-		"hateNo": [
-			"That is not possible!",
-			"We are not agreeing to that!",
-			"I beg your pardon?"
-		],
-		"hateYes": [
-			"That is fine.",
-			"That is good enough.",
-			"Very well..."
-		],
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"outerColor": [
-			16,
-			16,
-			16
-		],
-		"innerColor": [
-			255,
-			200,
-			200
-		],
-		"unique": "MANIFEST_DESTINY",
-		"cities": [
-			"The Hive",
-			"Q'Throczan",
-			"Q'Chovex",
-			"Q'Imphet",
-			"Q'Omphead",
-			"Q'Grecoks",
-			"Q'Vrelzieks",
-			"Q'Vronens",
-			"Q'Aerlae",
-			"Q'Phulnoith",
-			"Q'Creved",
-			"Q'Xirqen",
-			"Q'Gax",
-			"Q'Threqals",
-			"Q'Bhilmuk",
-			"Q'Mazea",
-			"Q'Zomirs",
-			"Q'Drorkrex",
-			"Q'Honkrath",
-			"Q'Zulgra",
-			"Q'Vahars",
-			"Q'Crindith",
-			"Q'Raavraes",
-			"Q'Bhoknais",
-			"Qho'Qru",
-			"Q'Dateatz",
-			"Q'Elnad",
-			"Q'Izien",
-			"Qol'Ell",
-			"Q'Dhihien",
-			"Q'Naquiel",
-			"Q'Ugneon",
-			"Q'Straquks",
-			"Q'Nulptr",
-			"Q'Ohfahl"
-		]
-	},
-	{
 		"name": "Italy",
 		"leaderName": "Benito Mussolini",
 		"adjective": [
@@ -161,8 +62,8 @@
 		],
 		"uniques": [
 			"[+1 Production] from every [Marble]",
-			"[+25]% Production when constructing [Military] buildings",
-			"[-25]% Culture cost of natural border growth"
+			"[+25]% Production when constructing [Military] buildings [in this city]",
+			"[-25]% Culture cost of natural border growth [in this city]"
 		],
 		"cities": [
 			"Rome",
@@ -195,6 +96,204 @@
 			"Sassari",
 			"Latina",
 			"Gioia Tauro"
+		]
+	},
+	{
+		"name": "Albania",
+		"leaderName": "Zog I",
+		"adjective": "Albanian",
+		"startBias": [
+			"Hill",
+			"Coast"
+		],
+		"preferredVictoryType": "Diplomatic",
+		"startIntroPart1": "May honor and glory follow you, King Zog I of Albania. Your nation, nestled in the Balkan Peninsula, has a rich and complex history. From ancient Illyrian tribes to Roman conquest, from Byzantine rule to Ottoman dominion, and finally to independence in 1912, Albania has persevered through countless challenges.",
+		"startIntroPart2": "King Zog, you transformed Albania from a primitive principality into a modern nation-state. Despite foreign pressures and internal strife, you modernized the military, established diplomatic relations, and developed infrastructure. Lead Albania to glory once more, creating a legacy that will stand the test of time!",
+		"declaringWar": "Albania cannot tolerate your transgressions any longer. Prepare for war!",
+		"attacked": "You dare attack Albania? You will regret this decision when my forces crush your pitiful armies.",
+		"defeated": "I may be defeated, but the spirit of Albania will never be broken. Remember this as you claim your hollow victory.",
+		"introduction": "Greetings, I am Zog I, King of the Albanians. I have transformed my nation from chaos to order. I hope our nations can prosper together in peace.",
+		"neutralHello": "Greetings, neighbor. How fares your nation today?",
+		"hateHello": "What do you want now? Speak quickly, my patience grows thin.",
+		"tradeRequest": "Albania proposes this arrangement. It would benefit us both to accept it.",
+		"innerColor": [
+			0,
+			0,
+			0
+		],
+		"outerColor": [
+			255,
+			0,
+			0
+		],
+		"uniqueName": "Eagle's Resilience",
+		"uniques": [
+			"[+2 Culture] in cities on [Hill] tiles",
+			"[+25]% Production when constructing [Buildings] buildings [in this city] <in [Hill] tiles>",
+			"[+25]% Great Person generation [in this cities] <if [Wonder] is constructed>"
+		],
+		"cities": [
+			"Tirana",
+			"Durrës",
+			"Vlorë",
+			"Shkodër",
+			"Elbasan",
+			"Korçë",
+			"Fier",
+			"Gjirokastër",
+			"Sarandë",
+			"Berat",
+			"Lushnjë",
+			"Pogradec",
+			"Kavajë",
+			"Lezhë",
+			"Lushnjë",
+			"Kuçovë",
+			"Kukës",
+			"Peshkopi",
+			"Krujë",
+			"Burrel"
+		],
+		"civilopediaText": [
+			{
+				"text": "The modern Albanian state was established in 1912, following centuries of Ottoman rule. After a period of political instability, Ahmet Zogu, who would later crown himself King Zog I, rose to power and transformed Albania from a feudal principality into a modern nation-state."
+			},
+			{
+				"text": "King Zog I ruled Albania from 1928 to 1939. During his reign, he implemented numerous reforms including the adoption of a civil code, the establishment of a national bank, and significant infrastructure improvements. Despite criticisms of his authoritarian style, he is credited with bringing stability to Albania during a turbulent period in European history."
+			},
+			{
+				"text": "Albania's geography is predominantly mountainous, with the Albanian Alps in the north and various mountain ranges throughout the country. This rugged terrain has historically provided natural defenses and shaped the resilient character of the Albanian people."
+			},
+			{
+				"text": "The double-headed eagle is the national symbol of Albania, representing pride, strength, and the country's storied history. It appears on the Albanian flag, symbolizing the nation's sovereignty and endurance through centuries of challenges."
+			}
+		]
+	},
+	{
+		"name": "America",
+		"leaderName": "Abraham Lincoln",
+		"adjective": "American",
+		"startBias": [
+			"Coast",
+			"River"
+		],
+		"preferredVictoryType": "Diplomatic",
+		"startIntroPart1": "Blessings upon you, President Abraham Lincoln, who preserved the Union through its darkest hour. You led America through civil war and abolition, setting the nation on a path toward justice and equality.",
+		"startIntroPart2": "President Lincoln, your people look to you once more to guide this great nation. Can you uphold the principles of liberty and forge a legacy that will stand the test of time?",
+		"declaringWar": "As we cannot be friends, we must be enemies. The Union must be preserved.",
+		"attacked": "You have made a grave error. The Union shall stand united against this aggression.",
+		"defeated": "With malice toward none, with charity for all, I accept this defeat. But know that the spirit of America will never be extinguished.",
+		"introduction": "Greetings, I am Abraham Lincoln, President of these United States of America. We seek peace and prosperity for all.",
+		"neutralHello": "Good day to you.",
+		"hateHello": "What do you want now?",
+		"tradeRequest": "I believe this arrangement may benefit both our great nations.",
+		"innerColor": [
+			255,
+			255,
+			255
+		],
+		"outerColor": [
+			60,
+			59,
+			110
+		],
+		"uniqueName": "Manifest Destiny",
+		"uniques": [
+			"[+1] Sight <for [Land] units>",
+			"[-50]% Gold cost of acquiring tiles [in all cities]",
+			"Double quantity of [Oil] produced",
+			"Free [Great General] appears <after discovering [Military Science]>",
+			"[+1 Happiness] from every [Courthouse]",
+			"[Great General] is earned [+50]% faster"
+		],
+		"cities": [
+			"Washington",
+			"New York",
+			"Boston",
+			"Philadelphia",
+			"Atlanta",
+			"Chicago",
+			"Seattle",
+			"San Francisco",
+			"Los Angeles",
+			"Houston",
+			"Portland",
+			"St. Louis",
+			"Miami",
+			"Buffalo",
+			"Detroit",
+			"New Orleans",
+			"Baltimore",
+			"Denver",
+			"Cincinnati",
+			"Dallas",
+			"Memphis",
+			"Cleveland",
+			"Kansas City",
+			"San Diego",
+			"Richmond",
+			"Las Vegas",
+			"Phoenix",
+			"Albuquerque",
+			"Minneapolis",
+			"Pittsburgh",
+			"Oakland",
+			"Tampa",
+			"Orlando",
+			"Tacoma",
+			"Santa Fe",
+			"Olympia",
+			"Hunt Valley",
+			"Springfield",
+			"Palo Alto",
+			"Centralia",
+			"Spokane",
+			"Jacksonville",
+			"Savannah",
+			"Charleston",
+			"San Antonio",
+			"Omaha",
+			"Birmingham",
+			"Honolulu",
+			"Anchorage",
+			"Sacramento",
+			"Salt Lake City",
+			"Reno",
+			"Boise",
+			"Milwaukee",
+			"Santa Cruz",
+			"Monterey",
+			"Santa Monica",
+			"Little Rock",
+			"Columbus",
+			"Annapolis",
+			"Providence",
+			"Cheyenne",
+			"Hartford",
+			"Williamsburg",
+			"Louisville"
+		],
+		"civilopediaText": [
+			{
+				"text": "The United States of America was founded in 1776 when thirteen British colonies declared their independence. After winning the Revolutionary War under George Washington, the new nation expanded across North America through territorial acquisitions and settlement, eventually stretching from the Atlantic to the Pacific.",
+				"paragraphs": 1
+			},
+			{
+				"text": "Abraham Lincoln, the 16th President of the United States, led the nation through its greatest crisis: the Civil War (1861-1865). Born in a log cabin in Kentucky in 1809, Lincoln rose from humble beginnings to become a lawyer and politician. Elected president in 1860, his victory triggered the secession of Southern states over the issue of slavery.",
+				"paragraphs": 1
+			},
+			{
+				"text": "Lincoln's determination to preserve the Union and his moral opposition to slavery guided his presidency. The Emancipation Proclamation of 1863 declared slaves in Confederate states to be free, transforming the war into a struggle for liberation. Despite tremendous bloodshed, Lincoln maintained his resolve, eventually leading the Union to victory.",
+				"paragraphs": 1
+			},
+			{
+				"text": "Lincoln's second inaugural address, with its call for \"malice toward none, with charity for all,\" outlined his vision for national reconciliation. Tragically, he was assassinated in April 1865, just days after the Confederate surrender at Appomattox Court House.",
+				"paragraphs": 1
+			},
+			{
+				"text": "The United States emerged from the World Wars as a global superpower. The American economy, culture, and military have profoundly shaped the modern world. While facing ongoing challenges including social inequality and political polarization, the ideals of liberty and self-government established by the nation's founders continue to inspire people worldwide.",
+				"paragraphs": 1
+			}
 		]
 	}
 ]
