@@ -295,5 +295,242 @@
 				"paragraphs": 1
 			}
 		]
+	},
+	{
+		"name": "Arabia",
+		"leaderName": "Muhammad",
+		"adjective": "Arabian",
+		"startBias": [
+			"Desert"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "Blessings be upon you, Prophet Muhammad, messenger of God and founder of Islam. Your revelations gathered in the Holy Quran formed the basis of Islamic theology and brought unity to the Arabian Peninsula. Through wisdom and faith, you transformed a collection of warring tribes into a powerful nation.",
+		"startIntroPart2": "Prophet Muhammad, your people look to you once more for guidance. Can you unite the faithful under one banner and build a civilization that will stand the test of time?",
+		"declaringWar": "The path of righteousness sometimes requires strength. Prepare yourself, for we must oppose you.",
+		"attacked": "You attack without just cause? We shall defend ourselves with the strength of our faith.",
+		"defeated": "Allah's will has been done. We accept this defeat with humility and wisdom.",
+		"introduction": "Peace be upon you. I am Muhammad, Prophet of Allah and leader of the Arabian people.",
+		"neutralHello": "Peace be upon you.",
+		"hateHello": "What brings you to our lands?",
+		"tradeRequest": "Consider this trade agreement, which would benefit both our peoples.",
+		"innerColor": [
+			0,
+			153,
+			51
+		],
+		"outerColor": [
+			255,
+			255,
+			255
+		],
+		"uniqueName": "Trade Caravan Network",
+		"uniques": [
+			"[100]% [Happiness] from every [Luxury resource]",
+			"[+2 Gold] from each Trade Route",
+			"[+1 Production] from every [Oil]",
+			"[+2 Science] from all [Trading post] buildings <in [Desert] tiles>",
+			"Land units may cross [Mountain] tiles after the first [Great General] is earned"
+		],
+		"cities": [
+			"Mecca",
+			"Medina",
+			"Damascus",
+			"Baghdad",
+			"Riyadh",
+			"Cairo",
+			"Aden",
+			"Jerusalem",
+			"Basra",
+			"Samarra",
+			"Cordoba",
+			"Muscat",
+			"Lahore",
+			"Sana'a",
+			"Marrakech",
+			"Algiers",
+			"Tripoli",
+			"Tunis",
+			"Isfahan",
+			"Kuwait",
+			"Doha",
+			"Dubai",
+			"Amman",
+			"Granada",
+			"Timbuktu",
+			"Samarkand",
+			"Balkh",
+			"Manouba",
+			"Fes",
+			"Tabriz"
+		],
+		"civilopediaText": [
+			{
+				"title": "History",
+				"description": "Arabia emerged from the Arabian Peninsula where, in the 7th century CE, the Prophet Muhammad united the warring Arab tribes under the banner of Islam. From humble beginnings in Mecca and Medina, the Islamic Caliphate expanded rapidly through conquest and conversion, eventually stretching from the Iberian Peninsula to the Indus River Valley."
+			},
+			{
+				"title": "Muhammad",
+				"description": "Born in Mecca around 570 CE, Muhammad received divine revelations beginning at age 40, which formed the basis of the Quran. Initially persecuted, he fled to Medina (the Hijra) in 622 CE, marking the beginning of the Islamic calendar. Muhammad's leadership united the Arab tribes through a combination of diplomatic skill, military prowess, and religious authority."
+			},
+			{
+				"title": "Arabian Golden Age",
+				"description": "The Islamic Golden Age saw unprecedented advances in science, mathematics, medicine, astronomy, and philosophy. While Europe languished in the Dark Ages, Arabian scholars preserved ancient Greek texts and made revolutionary discoveries in algebra, optics, and medicine. The House of Wisdom in Baghdad became the intellectual center of the medieval world."
+			},
+			{
+				"title": "Trade Networks",
+				"description": "Arabian merchants established vast trade networks connecting Europe, Africa, and Asia. Caravans crossed deserts carrying spices, textiles, precious metals, and knowledge. Arabian sailors dominated Indian Ocean trade routes, using advanced navigational techniques including the astrolabe."
+			}
+		]
+	},
+	{
+		"name": "Umayyad Caliphate",
+		"leaderName": "Abd al-Malik ibn Marwan",
+		"adjective": "Umayyad",
+		"style": "Arabian",
+		"startBias": [
+			"Desert",
+			"Plains"
+		],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "May Allah's blessings be upon you, Caliph Abd al-Malik ibn Marwan, fifth ruler of the Umayyad Caliphate. Under your wise leadership, the empire expanded to its greatest territorial extent, stretching from Spain to India. Your administrative reforms centralized power and standardized the currency throughout the realm.",
+		"startIntroPart2": "Your greatest achievement stands tall in Jerusalem - the magnificent Dome of the Rock, the first great masterpiece of Islamic architecture. The Arabic language flourished during your reign, becoming the administrative language of the entire caliphate. Great Caliph, your people await your guidance once more. Will you build an empire that spans continents and leaves monuments for the ages?",
+		"declaringWar": "Your existence is an affront to the true faith. Prepare to meet your fate.",
+		"attacked": "You dare attack the Caliphate? Your insolence shall be punished severely.",
+		"defeated": "The Umayyad banner falls today, but our legacy shall never be forgotten by history.",
+		"introduction": "Peace be upon you. I am Abd al-Malik ibn Marwan, Caliph of the Umayyad dynasty. I speak for all the faithful.",
+		"neutralHello": "What brings you to the lands of the faithful?",
+		"hateHello": "Speak quickly, infidel. My patience grows thin.",
+		"tradeRequest": "This arrangement could benefit both our peoples. Consider it with wisdom.",
+		"innerColor": [
+			0,
+			128,
+			0
+		],
+		"outerColor": [
+			255,
+			255,
+			255
+		],
+		"uniqueName": "Dar al-Islam",
+		"uniques": [
+			"[+25]% [Gold] from Trade Routes",
+			"[+1 Science] from every [Temple]",
+			"[+2 Culture] <in cities following our religion>"
+		],
+		"cities": [
+			"Damascus",
+			"Córdoba",
+			"Jerusalem",
+			"Kufa",
+			"Fustat",
+			"Wasit",
+			"Aleppo",
+			"Basra",
+			"Kairouan",
+			"Mosul",
+			"Mérida",
+			"Medina",
+			"Mecca",
+			"Alexandria",
+			"Seville",
+			"Baghdad",
+			"Toledo",
+			"Tangier",
+			"Tlemcen",
+			"Tripoli",
+			"Samarkand",
+			"Isfahan",
+			"Nishapur",
+			"Bukhara",
+			"Herat"
+		],
+		"civilopediaText": [
+			{
+				"text": "History",
+				"header": 1
+			},
+			{
+				"text": "The Umayyad Caliphate was the second of the four major caliphates established after the death of Prophet Muhammad. It was ruled by the Umayyad dynasty, who first came to power under the third caliph, Uthman ibn Affan, but it was not until Muawiyah I became caliph after the end of the First Muslim Civil War in 661 CE that the Umayyads established dynastic rule."
+			},
+			{
+				"text": "Under the Umayyads, the Islamic empire grew to become one of the largest the world had yet seen, incorporating North Africa, the Middle East, parts of Central Asia, and the Iberian Peninsula. Their rule saw the transformation of the caliphate from a religious entity to an imperial power."
+			},
+			{
+				"text": "Abd al-Malik",
+				"header": 2
+			},
+			{
+				"text": "Abd al-Malik ibn Marwan, who ruled from 685 to 705 CE, was the fifth Umayyad caliph and is regarded as the second founder of the Umayyad Caliphate due to his extensive reforms. He centralized government administration, established Arabic as the official language of administration, and reformed the currency by introducing a standard Islamic coinage system."
+			},
+			{
+				"text": "His most visible legacy is the Dome of the Rock in Jerusalem, completed in 691 CE, which remains one of the oldest and most recognizable Islamic monuments. Abd al-Malik's reign represented the high point of Umayyad power, with territorial expansion reaching its maximum extent."
+			},
+			{
+				"text": "Legacy",
+				"header": 2
+			},
+			{
+				"text": "The Umayyad Caliphate lasted until 750 CE when it was overthrown by the Abbasid Revolution. However, a branch of the family escaped to Al-Andalus (Iberia) and established the Emirate of Córdoba, which later became the Caliphate of Córdoba, continuing the Umayyad legacy in the West until the early 11th century."
+			},
+			{
+				"text": "The Umayyad period saw significant cultural and architectural developments, including the construction of the Great Mosque of Damascus. They established an efficient taxation system and postal service, and their patronage of arts and sciences laid groundwork for the later Islamic Golden Age."
+			}
+		]
+	},
+	{
+		"name": "Babylon",
+		"leaderName": "Nebuchadnezzar II",
+		"adjective": "Babylonian",
+		"startBias": [
+			"Desert",
+			"River"
+		],
+		"preferredVictoryType": "Scientific",
+		"startIntroPart1": "May the blessings of heaven be upon you, King Nebuchadnezzar II of Babylon. You rule over the mighty city of Babylon, nestled along the mighty Euphrates River. Babylon became the most important city in Mesopotamia around 1792 BCE, when Hammurabi, the great lawgiver, transformed it into a thriving city-state.",
+		"startIntroPart2": "O great king, your empire fell to the mighty Persians, and then to the Greeks, until the once-proud city was left to the sands. But now your people call for you to rebuild the hanging gardens and the mighty walls of your city! Will you answer their call, great Nebuchadnezzar? Will you restore Babylon to greatness? Will you build a civilization that will stand the test of time?",
+		"declaringWar": "The demon wants the blood of soldiers! Let us start the war and may the gods be on our side!",
+		"attacked": "You dare to disturb the peace of the mighty Babylon? So be it... Prepare for war!",
+		"defeated": "The once-mighty Babylon has fallen to your barbaric hordes. History will remember this dark day.",
+		"introduction": "I am Nebuchadnezzar, King of Babylon. Are you a friend to science and knowledge, or an enemy to progress?",
+		"neutralHello": "The city of Babylon welcomes you.",
+		"hateHello": "What do you want, disturber of the peace?",
+		"tradeRequest": "Babylon offers you this deal in the name of our mutual prosperity.",
+		"uniqueName": "Ingenuity of Babylon",
+		"uniques": [
+			"Free [Great Scientist] appears <after discovering [Writing]>"
+		],
+		"cities": [
+			"Babylon",
+			"Akkad",
+			"Dur-Kurigalzu",
+			"Nippur",
+			"Borsippa",
+			"Sippar",
+			"Opis",
+			"Mari",
+			"Shushan",
+			"Eshnunna",
+			"Ellasar",
+			"Erech",
+			"Kutha",
+			"Sirpurla",
+			"Neribtum",
+			"Ashur",
+			"Ninveh",
+			"Nimrud",
+			"Arbela",
+			"Nuzi",
+			"Arrapkha"
+		],
+		"innerColor": [
+			27,
+			53,
+			63
+		],
+		"outerColor": [
+			213,
+			249,
+			255
+		]
 	}
 ]
