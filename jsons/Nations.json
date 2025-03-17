@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Albania",
+		"name": "Kingdom of Albania",
 		"leaderName": "Zog I",
 		"adjective": "Albanian",
 		"startBias": [
@@ -18,14 +18,14 @@
 		"hateHello": "What do you want now? Speak quickly, my patience grows thin.",
 		"tradeRequest": "Albania proposes this arrangement. It would benefit us both to accept it.",
 		"innerColor": [
-			0,
-			0,
+			255,
+			223,
 			0
 		],
 		"outerColor": [
-			255,
-			0,
-			0
+			186,
+			28,
+			51
 		],
 		"uniqueName": "Eagle's Resilience",
 		"uniques": [
@@ -89,13 +89,13 @@
 		"tradeRequest": "Consider this trade agreement, which would benefit both our peoples.",
 		"innerColor": [
 			0,
-			153,
-			51
+			128,
+			0
 		],
 		"outerColor": [
-			255,
-			255,
-			255
+			237,
+			201,
+			175
 		],
 		"uniqueName": "Trade Caravan Network",
 		"uniques": [
@@ -156,7 +156,7 @@
 		]
 	},
 	{
-		"name": "Babylon",
+		"name": "Babylonia",
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": "Babylonian",
 		"startBias": [
@@ -201,80 +201,76 @@
 			"Arrapkha"
 		],
 		"innerColor": [
-			27,
-			53,
-			63
+			255,
+			223,
+			0
 		],
 		"outerColor": [
-			213,
-			249,
-			255
+			65,
+			105,
+			225
 		]
 	},
 	{
-		"name": "Greece",
+		"name": "Athens",
 		"leaderName": "Pericles",
-		"adjective": "Greek",
+		"adjective": "Athenian",
 		"startBias": [
 			"Coast"
 		],
 		"preferredVictoryType": "Cultural",
-		"startIntroPart1": "Greetings, Pericles, leader of the magnificent Greek civilization. Your people stand as a testament to human creativity and reason, laying the foundations for Western culture and thought. From the verdant valleys to the shining seas of the Mediterranean, the city-states of Greece grew into a great civilization.",
-		"startIntroPart2": "Great orator and statesman, it was under your guidance that Athens achieved its golden age of art, philosophy, and democracy. While your civilization fell to the Roman Empire and its magnificent works crumbled with the passage of time, your ideas continue to resonate throughout the world. Can you once again lead the Greek people to greatness? Can you build a civilization that will stand the test of time?",
-		"declaringWar": "The owl of Athena spreads its wings as we march to war! Your defeat is ordained by the gods!",
-		"attacked": "You have disturbed the peace of the Hellenic world. Athens will not stand for this aggression!",
-		"defeated": "The light of Greek wisdom has been extinguished. The world enters a dark age without our guidance.",
-		"introduction": "I am Pericles of Athens, where art and reason flourish. Let us share knowledge and culture for the betterment of our peoples.",
-		"neutralHello": "The people of Greece welcome you.",
-		"hateHello": "What do you want, barbarian?",
-		"tradeRequest": "Athens proposes this exchange of goods which would benefit both our glorious states.",
-		"uniqueName": "Hellenic League",
+		"startIntroPart1": "Hail, noble Pericles, visionary leader of Athens! Your city-state pioneered democracy, philosophy, and the arts, establishing the foundations of Western civilization. Under your guidance, Athens reached its Golden Age, becoming the cultural and intellectual center of the ancient world.",
+		"startIntroPart2": "Great statesman, the world yearns for enlightenment once more. Will you lead your people to establish a new beacon of democracy and culture? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "The owl of Minerva spreads its wings with the falling of dusk. Athens must now defend its ideals through force of arms.",
+		"attacked": "You attack the cradle of democracy? Very well. Athens will demonstrate that wisdom and valor are not mutually exclusive.",
+		"defeated": "You have extinguished the light of democracy and reason. The world grows darker with Athens' fall.",
+		"introduction": "Greetings, I am Pericles of Athens. Let us discuss philosophy, art, and governance - or merely exchange pleasantries if you prefer.",
+		"neutralHello": "The Assembly welcomes you.",
+		"hateHello": "State your business quickly, before I summon the Strategos.",
+		"tradeRequest": "Athens proposes an exchange of goods that should prove beneficial to both our peoples.",
+		"innerColor": [
+			255,
+			223,
+			0
+		],
+		"outerColor": [
+			0,
+			56,
+			168
+		],
+		"uniqueName": "Athenian Golden Age",
 		"uniques": [
-			"[-50]% City-State Influence degradation",
-			"[+1 Culture] [in all cities] <in cities connected to the capital>"
+			"[+50]% Golden Age length",
+			"[+20]% [Culture] <during a Golden Age>",
+			"[+25]% Great Person generation [in capital]",
+			"[+1 Culture] from every [Theatre]",
+			"[+1 Science] from every [Library]"
 		],
 		"cities": [
 			"Athens",
-			"Sparta",
+			"Piraeus",
+			"Marathon",
+			"Eleusis",
+			"Megara",
 			"Corinth",
 			"Thebes",
+			"Chalcis",
+			"Sparta",
 			"Argos",
-			"Knossos",
 			"Mycenae",
+			"Knossos",
+			"Rhodes",
+			"Eretria",
 			"Pharsalos",
 			"Ephesus",
 			"Halicarnassus",
-			"Rhodes",
-			"Eretria",
-			"Pergamon",
-			"Miletos",
-			"Megara",
+			"Lamia",
 			"Phocaea",
-			"Sicyon",
-			"Tiryns",
-			"Samos",
-			"Mytilene",
-			"Chios",
-			"Paros",
-			"Tegea",
-			"Naxos",
-			"Syracuse",
-			"Herakleia",
-			"Gortyn",
-			"Chalkis",
-			"Pylos",
-			"Pella",
-			"Naukratis"
-		],
-		"innerColor": [
-			53,
-			88,
-			132
-		],
-		"outerColor": [
-			209,
-			231,
-			255
+			"Smyrna",
+			"Delphi",
+			"Olympia",
+			"Tanagra",
+			"Miletus"
 		],
 		"civilopediaText": [
 			{
@@ -282,46 +278,37 @@
 				"header": 1
 			},
 			{
-				"text": "Ancient Greece, which flourished from the archaic period of the 8th century BCE to the end of antiquity around 600 CE, was a civilization that originated in the Mediterranean region and today constitutes the foundation of Western civilization."
+				"text": "Athens was a prominent city-state in ancient Greece, known as the birthplace of democracy and a center of arts and philosophy. During the 5th century BCE, under Pericles' leadership, Athens enjoyed its Golden Age, with remarkable achievements in architecture, drama, philosophy, and governance."
 			},
 			{
-				"text": "Greece reached its apex during the Classical period, particularly during the 'Golden Age' of Athens under the leadership of Pericles (495-429 BCE). This period saw unprecedented advances in philosophy, literature, art, architecture, mathematics, and science."
+				"text": "Pericles (495-429 BCE) guided Athens through its most glorious period, overseeing the construction of the Parthenon and other magnificent structures on the Acropolis. His Funeral Oration, preserved by Thucydides, remains one of the most famous celebrations of democracy and Athenian civic values."
 			},
 			{
-				"text": "Unlike many ancient civilizations, Greece was not a single unified empire but rather a collection of independent city-states (poleis) each with its own laws, customs, and governance. The most prominent were Athens, known for its democratic system and cultural achievements, and Sparta, renowned for its military prowess."
+				"text": "Athens developed the world's first known democratic system, where eligible citizens directly participated in the governance of the city-state through the Assembly. This revolutionary political system influenced governmental structures worldwide for centuries to come."
 			},
 			{
-				"text": "Under Pericles, Athens experienced its greatest cultural and political flourishing. The Parthenon and other architectural marvels were constructed, playwrights like Sophocles and Euripides produced their masterpieces, and philosophers like Socrates laid the foundations for Western philosophy."
-			},
-			{
-				"text": "Greek influence spread widely through colonization and the conquests of Alexander the Great. Though eventually conquered by Rome, Greek culture, language, and ideas continued to shape the ancient world and beyond, leaving an indelible mark on human civilization."
+				"text": "The city was also home to some of history's greatest thinkers - Socrates, Plato, and Aristotle all developed their philosophical ideas in Athens, while playwrights like Sophocles, Euripides, and Aristophanes created enduring dramatic works that are still performed today."
 			},
 			{
 				"text": "Factoids",
 				"header": 1
 			},
 			{
-				"text": "The ancient Olympic Games were held every four years in Olympia to honor Zeus, beginning in 776 BCE."
+				"text": "The Parthenon, Athens' most famous structure, was built in just 15 years (447-432 BCE) as a temple to Athena, the city's patron goddess."
 			},
 			{
-				"text": "Ancient Greek democracy, established in Athens around 508 BCE, was direct rather than representative - eligible citizens voted on legislation and executive bills themselves."
+				"text": "Athenian democracy allowed direct participation of citizens in governance, though citizenship was limited to free adult males born to Athenian parents."
 			},
 			{
-				"text": "The Parthenon, dedicated to the goddess Athena, was completed in 432 BCE and is considered the epitome of Classical Greek architecture."
+				"text": "The Athenian navy was the dominant maritime force in the Mediterranean during the 5th century BCE, with over 300 triremes at its peak."
 			},
 			{
-				"text": "Greek philosophers such as Socrates, Plato, and Aristotle established the foundations of Western philosophy and scientific thinking."
-			},
-			{
-				"text": "The Greek alphabet, developed around 800 BCE, was derived from the Phoenician alphabet and became the ancestor of Latin and Cyrillic scripts used throughout the world today."
-			},
-			{
-				"text": "Pericles' famous Funeral Oration, as recorded by Thucydides, remains one of the most profound statements of democratic values and civic duty in Western political thought."
+				"text": "The olive tree was sacred to Athens, and the city was known for its olive oil production. The Athenian owl, depicted on their ancient coins, remains an enduring symbol of wisdom."
 			}
 		]
 	},
 	{
-		"name": "Italy",
+		"name": "Italian Social Republic",
 		"leaderName": "Benito Mussolini",
 		"adjective": [
 			"Italian"
@@ -373,13 +360,13 @@
 		"tradeRequest": "Italy proposes a trade that will benefit both our nations.",
 		"outerColor": [
 			0,
-			140,
-			69
+			0,
+			0
 		],
 		"innerColor": [
-			220,
-			220,
-			220
+			0,
+			146,
+			69
 		],
 		"uniques": [
 			"[+1 Production] from every [Marble]",
@@ -440,13 +427,13 @@
 		"tradeRequest": "This arrangement could benefit both our peoples. Consider it with wisdom.",
 		"innerColor": [
 			0,
-			128,
-			0
+			0,
+			128
 		],
 		"outerColor": [
 			255,
-			255,
-			255
+			215,
+			0
 		],
 		"uniqueName": "Dar al-Islam",
 		"uniques": [
@@ -538,9 +525,9 @@
 			255
 		],
 		"outerColor": [
-			60,
-			59,
-			110
+			0,
+			0,
+			139
 		],
 		"uniqueName": "Manifest Destiny",
 		"uniques": [
@@ -638,6 +625,102 @@
 			{
 				"text": "The United States emerged from the World Wars as a global superpower. The American economy, culture, and military have profoundly shaped the modern world. While facing ongoing challenges including social inequality and political polarization, the ideals of liberty and self-government established by the nation's founders continue to inspire people worldwide.",
 				"paragraphs": 1
+			}
+		]
+	},
+	{
+		"name": "Sparta",
+		"leaderName": "Leonidas I",
+		"adjective": "Spartan",
+		"startBias": [
+			"Hill"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Glory to you, King Leonidas, legendary ruler of the militaristic city-state of Sparta. Your people were raised from birth to value discipline, strength, and martial excellence above all else. Your stand at Thermopylae against the massive Persian invasion force has echoed through the centuries as the ultimate symbol of courage against overwhelming odds.",
+		"startIntroPart2": "Brave king of a warrior people, Sparta calls for your leadership once more. Will you train your citizens in the ways of war and lead them to glorious conquest? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "Prepare yourselves. Today we dine in Hades.",
+		"attacked": "Come then, and take them.",
+		"defeated": "This is not defeat. A Spartan never retreats, never surrenders. Our deeds live on.",
+		"introduction": "I am Leonidas of Sparta. I hope you prove yourself worthy of our respect.",
+		"neutralHello": "What news from the battlefield?",
+		"hateHello": "Speak, before my patience reaches its end.",
+		"tradeRequest": "Sparta proposes an exchange. Consider it carefully.",
+		"innerColor": [
+			205,
+			127,
+			50
+		],
+		"outerColor": [
+			186,
+			28,
+			51
+		],
+		"uniqueName": "Spartan Discipline",
+		"uniques": [
+			"[+15]% Strength <for [Land] units>",
+			"[+10]% Strength <for [Military] units>",
+			"[-25]% maintenance on road & railroads",
+			"[-33]% maintenance costs <for [Military] units>",
+			"[+1 Culture] from every [Barracks]"
+		],
+		"cities": [
+			"Sparta",
+			"Gytheio",
+			"Phlius",
+			"Pellana",
+			"Amyclae",
+			"Therapne",
+			"Helos",
+			"Epidaurus",
+			"Geronthrai",
+			"Selinus",
+			"Cardamyle",
+			"Prasiai",
+			"Leuctra",
+			"Anthene",
+			"Thyrea",
+			"Neapolis",
+			"Methone",
+			"Asine",
+			"Iasus",
+			"Mycenae",
+			"Pharis",
+			"Aegys",
+			"Bryseae",
+			"Messene"
+		],
+		"civilopediaText": [
+			{
+				"text": "History",
+				"header": 1
+			},
+			{
+				"text": "Sparta was a prominent city-state in ancient Greece located in the Laconia region in the Peloponnese. Unlike its rival Athens, Sparta focused intensely on military training and excellence rather than philosophy and arts. From the earliest age, Spartan boys were trained for combat and endurance in the agoge, a rigorous education and training system."
+			},
+			{
+				"text": "King Leonidas I led the famous Spartan stand at the Battle of Thermopylae in 480 BCE. With just 300 Spartan warriors and several thousand allies, he held back the massive Persian invasion force of Xerxes I for three days, giving the rest of Greece time to mobilize. The battle has become a cultural symbol of courage against overwhelming odds."
+			},
+			{
+				"text": "Spartan society was unique among ancient Greek city-states. It was effectively a military state with strict social hierarchy. The Spartans were governed by two kings who shared power, and their warrior culture was supported by the helots, a subjugated population forced to work the land for their Spartan masters."
+			},
+			{
+				"text": "At its height in the 6th to 4th centuries BCE, Sparta was recognized as the dominant military land power in ancient Greece. Its focus on military excellence came at the expense of commerce and the arts, but the resulting warrior society created a military force of unmatched discipline and prowess."
+			},
+			{
+				"text": "Factoids",
+				"header": 1
+			},
+			{
+				"text": "The famous Spartan phrase 'Come and take them' (Molon Labe) was reportedly King Leonidas's defiant response when asked to lay down Spartan weapons."
+			},
+			{
+				"text": "Sparta was one of the few societies in ancient Greece where women received formal education and could own property."
+			},
+			{
+				"text": "The word 'laconic,' meaning concise or terse in speech, derives from Laconia, the region of Sparta, reflecting the Spartans' reputation for brevity."
+			},
+			{
+				"text": "Unlike most Greek cities, ancient Sparta had no defensive walls. The Spartans proudly claimed that 'Our men are our walls.'"
 			}
 		]
 	}
