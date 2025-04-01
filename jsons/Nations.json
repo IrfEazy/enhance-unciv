@@ -156,7 +156,7 @@
 		]
 	},
 	{
-		"name": "Babylonia",
+		"name": "Babylonian Empire",
 		"leaderName": "Nebuchadnezzar II",
 		"adjective": "Babylonian",
 		"startBias": [
@@ -646,14 +646,14 @@
 		"hateHello": "Speak, before my patience reaches its end.",
 		"tradeRequest": "Sparta proposes an exchange. Consider it carefully.",
 		"innerColor": [
-			205,
-			127,
-			50
+			230,
+			170,
+			110
 		],
 		"outerColor": [
-			186,
-			28,
-			51
+			184,
+			38,
+			58
 		],
 		"uniqueName": "Spartan Discipline",
 		"uniques": [
@@ -721,6 +721,207 @@
 			},
 			{
 				"text": "Unlike most Greek cities, ancient Sparta had no defensive walls. The Spartans proudly claimed that 'Our men are our walls.'"
+			}
+		]
+	},
+	{
+		"name": "Carolingian Empire",
+		"leaderName": "Charlemagne",
+		"adjective": "Carolingian",
+		"startBias": [
+			"Hill",
+			"Plains"
+		],
+		"preferredVictoryType": "Domination",
+		"startIntroPart1": "Hail, Emperor Charlemagne, revered as the Father of Europe! Your vision transcended mere conquest, uniting vast territories under a single cultural and administrative vision. From the North Sea to the Mediterranean, your empire became a beacon of cultural renaissance and political innovation.",
+		"startIntroPart2": "Great Charles, the time has come once more to forge an empire that will reshape the course of history. Will you once again unite disparate peoples under a grand vision of civilization? Can you build a legacy that will echo through the centuries?",
+		"declaringWar": "The sword of God and the Church shall prevail!",
+		"attacked": "You challenge the protector of Christendom? So be it!",
+		"defeated": "The Empire may fall, but the spirit of unity shall endure.",
+		"introduction": "I am Charlemagne, King of the Franks and Emperor of the Romans. Prove your worth, and you may find an ally.",
+		"neutralHello": "What news of learning and governance?",
+		"hateHello": "Speak quickly and with respect.",
+		"tradeRequest": "Let us consider an exchange that benefits both our realms.",
+		"innerColor": [
+			102,
+			51,
+			0
+		],
+		"outerColor": [
+			204,
+			153,
+			102
+		],
+		"uniqueName": "Carolingian Renaissance",
+		"uniques": [
+			"[+1 Science] from every [Library]",
+			"[+1 Culture] from every [University]",
+			"[+15]% Strength <for [Melee] units>",
+			"Free [Great Scientist] appears"
+		],
+		"cities": [
+			"Aachen",
+			"Paris",
+			"Metz",
+			"Cologne",
+			"Mainz",
+			"Strasbourg",
+			"Trier",
+			"Utrecht",
+			"Reims",
+			"Tours",
+			"Bordeaux",
+			"Lyon",
+			"Marseille",
+			"Toulouse",
+			"Narbonne",
+			"Autun",
+			"Arles",
+			"Basel",
+			"Konstanz",
+			"Augsburg",
+			"Würzburg",
+			"Bamberg",
+			"Magdeburg",
+			"Paderborn",
+			"Corvey",
+			"Fulda",
+			"Salzburg",
+			"Freising",
+			"Passau",
+			"Chur"
+		],
+		"civilopediaText": [
+			{
+				"text": "History",
+				"header": 1
+			},
+			{
+				"text": "The Carolingian Empire, at its height under Charlemagne, represented a pivotal moment in European history. Spanning from the North Sea to the Mediterranean, and from the Atlantic to the Danube, it united much of Western and Central Europe under a single political and cultural framework."
+			},
+			{
+				"text": "Charlemagne's reign was marked by extraordinary achievements. He not only expanded his territory through military conquests but also initiated the Carolingian Renaissance, a period of cultural and intellectual revival. He promoted education, established schools, and gathered scholars from across his empire."
+			},
+			{
+				"text": "The empire was unique in its administrative and cultural innovations. Charlemagne standardized weights and measures, created a common currency, and developed a sophisticated administrative system that would influence European governance for centuries to come."
+			},
+			{
+				"text": "Crowned as Holy Roman Emperor by Pope Leo III in 800 CE, Charlemagne bridged the gap between secular and religious power, establishing a model of Christian kingship that would define medieval European politics."
+			},
+			{
+				"text": "Factoids",
+				"header": 1
+			},
+			{
+				"text": "Despite being a powerful ruler, Charlemagne was illiterate in his youth and learned to read later in life, becoming a passionate patron of learning."
+			},
+			{
+				"text": "The Carolingian minuscule, a standardized writing script developed during this period, became the basis for modern European writing."
+			},
+			{
+				"text": "Charlemagne spoke Latin and understood Greek, though he primarily spoke Frankish, the predecessor to modern French and German languages."
+			},
+			{
+				"text": "The empire was divided among Charlemagne's grandsons, ultimately leading to the formation of the distinct kingdoms of France and Germany."
+			}
+		]
+	},
+	{
+		"name": "Sumer",
+		"leaderName": "Ur-Nammu",
+		"adjective": "Sumerian",
+		"startBias": [
+			"River",
+			"Flood plains"
+		],
+		"preferredVictoryType": "Scientific",
+		"startIntroPart1": "Hail, Ur-Nammu, great king of Ur and founder of the Third Dynasty! Your wisdom and vision transformed Mesopotamia, establishing laws and building magnificent ziggurats that would echo through millennia.",
+		"startIntroPart2": "Mighty ruler, the cradle of civilization calls once more. Will you again lead humanity from the fertile banks of the Euphrates, pushing the boundaries of knowledge and governance?",
+		"declaringWar": "The gods have ordained our supremacy!",
+		"attacked": "You dare challenge the inventors of writing and law?",
+		"defeated": "Even fallen, the light of knowledge shall continue to shine.",
+		"introduction": "I am Ur-Nammu, who brings order and wisdom. Prove your worth, and you may learn from us.",
+		"neutralHello": "What innovations do you bring?",
+		"hateHello": "Speak carefully, for knowledge is power.",
+		"tradeRequest": "Let us exchange more than mere goods - let us exchange understanding.",
+		"innerColor": [
+			89,
+			45,
+			22
+		],
+		"outerColor": [
+			210,
+			180,
+			140
+		],
+		"uniqueName": "Cradle of Civilization",
+		"uniques": [
+			"Free [Great Scientist] appears <upon discovering [Writing] technology>",
+			"[+1 Science] from every [City-State]",
+			"[Great Scientist] is earned [20]% faster",
+			"[Gold] cost of purchasing [All] units [-33]%"
+		],
+		"cities": [
+			"Ur",
+			"Uruk",
+			"Eridu",
+			"Lagash",
+			"Nippur",
+			"Kish",
+			"Girsu",
+			"Umma",
+			"Bad-tibira",
+			"Adab",
+			"Mari",
+			"Akkad",
+			"Babylon",
+			"Isin",
+			"Larsa",
+			"Eshnunna",
+			"Sippar",
+			"Mashkan-shapir",
+			"Tell Asmar",
+			"Khafajah",
+			"Tell Abu Salabikh",
+			"Tell Agrab",
+			"Tell Brak",
+			"Hamoukar",
+			"Tell es-Sweyhat",
+			"Habuba Kabira",
+			"Jebel Aruda"
+		],
+		"civilopediaText": [
+			{
+				"text": "History",
+				"header": 1
+			},
+			{
+				"text": "The Sumerian civilization emerged in southern Mesopotamia around 4500 BCE, pioneering numerous innovations that would transform human society. From the world's first writing system to complex irrigation techniques, the Sumerians laid the groundwork for complex urban civilizations."
+			},
+			{
+				"text": "Ur-Nammu, founder of the Third Dynasty of Ur, was particularly notable. He created one of the earliest known legal codes, predating Hammurabi's by centuries, and established a sophisticated administrative system that brought unprecedented order to society."
+			},
+			{
+				"text": "The Sumerians developed cuneiform script, invented the wheel, created advanced mathematical and astronomical systems, and built magnificent ziggurats that served as both religious centers and technological marvels of their time."
+			},
+			{
+				"text": "Their city-states were centers of innovation, with complex social structures, advanced agricultural techniques, and a deep understanding of governance that would influence civilizations for millennia to come."
+			},
+			{
+				"text": "Factoids",
+				"header": 1
+			},
+			{
+				"text": "The Sumerians invented the first known writing system, cuneiform, initially used for economic record-keeping."
+			},
+			{
+				"text": "Ur-Nammu's law code was revolutionary, emphasizing compensation and standardized penalties, a radical concept for its time."
+			},
+			{
+				"text": "They developed complex irrigation systems that transformed the harsh Mesopotamian landscape into a fertile agricultural center."
+			},
+			{
+				"text": "The Sumerian number system was sexagesimal (base-60), which is why we still have 60 seconds in a minute and 360 degrees in a circle."
 			}
 		]
 	}
