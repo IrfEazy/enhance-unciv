@@ -1,1 +1,116 @@
-[]
+[
+    {
+        "name": "Scriptorium",
+        "replaces": "Library",
+        "uniqueTo": "Carolingian Empire",
+        "cost": 80,
+        "maintenance": 2,
+        "uniques": [
+            "[+2 Science]",
+            "[+1 Culture]",
+            "[+1 Science] <in this city>"
+        ],
+        "requiredTech": "Writing",
+        "quote": "In the silent rooms of the scriptorium, knowledge is preserved, one careful stroke at a time.",
+        "civilopediaText": [
+            {
+                "text": "History",
+                "header": 1
+            },
+            {
+                "text": "The Carolingian scriptoria were revolutionary centers of learning and preservation during the 8th and 9th centuries. Monks meticulously copied and preserved ancient manuscripts, playing a crucial role in maintaining classical knowledge during the early Medieval period."
+            },
+            {
+                "text": "These writing rooms were more than simple copying centers. They were intellectual workshops where scholars preserved, studied, and sometimes corrected classical texts, ensuring the survival of much of our knowledge about classical antiquity."
+            },
+            {
+                "text": "Under Charlemagne's patronage, scriptoria became centers of cultural renaissance, standardizing writing styles and preserving works from Greek, Roman, and early Christian traditions."
+            }
+        ]
+    },
+    {
+        "name": "Palatine School",
+        "replaces": "University",
+        "uniqueTo": "Carolingian Empire",
+        "cost": 160,
+        "maintenance": 3,
+        "uniques": [
+            "[+3 Science]",
+            "[+1 Culture]",
+            "Free [Great Scientist] appears"
+        ],
+        "requiredTech": "Education",
+        "quote": "Knowledge is the light that illuminates the path of civilization.",
+        "civilopediaText": [
+            {
+                "text": "History",
+                "header": 1
+            },
+            {
+                "text": "The Palatine School, established by Charlemagne and led by the scholar Alcuin of York, was a groundbreaking educational institution. Unlike other schools of its time, it brought together scholars from across Europe to create a hub of learning and cultural exchange."
+            },
+            {
+                "text": "This school was central to the Carolingian Renaissance, focusing on classical learning, theology, and the preservation of knowledge. It trained administrators, clergy, and scholars who would spread learning throughout the empire."
+            },
+            {
+                "text": "The curriculum was revolutionary, covering grammar, rhetoric, dialectics, arithmetic, geometry, astronomy, and music - the seven liberal arts that would form the basis of medieval education."
+            }
+        ]
+    },
+    {
+        "name": "Missi Dominici Center",
+        "replaces": "Courthouse",
+        "uniqueTo": "Carolingian Empire",
+        "cost": 120,
+        "maintenance": 2,
+        "uniques": [
+            "[-50]% unhappiness from the number of cities",
+            "[+3 Gold] <in this city>"
+        ],
+        "requiredTech": "Civil Service",
+        "quote": "Justice flows from the emperor's delegates to every corner of the empire.",
+        "civilopediaText": [
+            {
+                "text": "History",
+                "header": 1
+            },
+            {
+                "text": "The Missi Dominici were royal representatives sent by Charlemagne to ensure proper governance across his vast empire. These imperial delegates were a unique administrative innovation that centralized imperial control and maintained judicial consistency."
+            },
+            {
+                "text": "Each pair of Missi - typically one ecclesiastical and one lay official - would travel through specific regions, investigating local conditions, administering justice, and ensuring the emperor's directives were followed."
+            },
+            {
+                "text": "This system represented one of the most sophisticated administrative mechanisms of the early Medieval period, allowing centralized control over a diverse and expansive territory."
+            }
+        ]
+    },
+    {
+        "name": "Imperial Chapel",
+        "replaces": "Temple",
+        "uniqueTo": "Carolingian Empire",
+        "cost": 100,
+        "maintenance": 2,
+        "uniques": [
+            "[+2 Faith]",
+            "[+1 Culture]"
+        ],
+        "requiredTech": "Theology",
+        "quote": "Where divine grace and imperial power converge, civilization flourishes.",
+        "civilopediaText": [
+            {
+                "text": "History",
+                "header": 1
+            },
+            {
+                "text": "The Imperial Chapel, most famously exemplified by the Palatine Chapel in Aachen, was more than a religious building. It was a symbol of the fusion between spiritual and temporal power in the Carolingian Empire."
+            },
+            {
+                "text": "Designed to reflect both religious devotion and imperial grandeur, these chapels were architectural and political statements. They served as centers of worship, imperial ceremonies, and administrative functions."
+            },
+            {
+                "text": "The Aachen Chapel, in particular, was a masterpiece of Carolingian architecture, blending Roman, Byzantine, and local architectural traditions into a unique expression of imperial Christian identity."
+            }
+        ]
+    }
+]
