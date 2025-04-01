@@ -1,1 +1,141 @@
-[]
+[
+    {
+        "name": "Frankish Levy",
+        "replaces": "Warrior",
+        "unitType": "Melee",
+        "uniqueTo": "Carolingian Empire",
+        "movement": 2,
+        "strength": 8,
+        "cost": 40,
+        "requiredTech": "Mining",
+        "obsoleteTech": "Bronze Working",
+        "uniques": [
+            "Unbuildable"
+        ],
+        "attackSound": "defaultAttack"
+    },
+    {
+        "name": "Frankish Archer",
+        "replaces": "Archer",
+        "unitType": "Archery",
+        "uniqueTo": "Carolingian Empire",
+        "movement": 2,
+        "strength": 5,
+        "rangedStrength": 7,
+        "cost": 40,
+        "requiredTech": "Archery",
+        "obsoleteTech": "Construction",
+        "uniques": [
+            "[+20]% Strength <when defending>"
+        ],
+        "attackSound": "bowShoot"
+    },
+    {
+        "name": "Carolingian Spearman",
+        "replaces": "Spearman",
+        "unitType": "Melee",
+        "uniqueTo": "Carolingian Empire",
+        "movement": 2,
+        "strength": 11,
+        "cost": 56,
+        "requiredTech": "Bronze Working",
+        "obsoleteTech": "Civil Service",
+        "uniques": [
+            "[+20]% Strength <when defending>"
+        ],
+        "attackSound": "defaultAttack"
+    },
+    {
+        "name": "Frankish Infantry",
+        "replaces": "Swordsman",
+        "unitType": "Melee",
+        "uniqueTo": "Carolingian Empire",
+        "movement": 2,
+        "strength": 16,
+        "cost": 80,
+        "requiredTech": "Iron Working",
+        "obsoleteTech": "Steel",
+        "uniques": [
+            "[+20]% Strength <when defending>"
+        ],
+        "attackSound": "defaultAttack"
+    },
+    {
+        "name": "Carolingian Cavalry",
+        "replaces": "Horseman",
+        "unitType": "Mounted",
+        "uniqueTo": "Carolingian Empire",
+        "movement": 4,
+        "strength": 14,
+        "cost": 80,
+        "requiredTech": "Horseback Riding",
+        "obsoleteTech": "Chivalry",
+        "uniques": [
+            "Can move after attacking",
+            "[+10]% Strength <when attacking> <vs cities>"
+        ],
+        "attackSound": "cavalry"
+    },
+    {
+        "name": "Frankish Light Chariot",
+        "replaces": "Chariot Archer",
+        "unitType": "Ranged",
+        "uniqueTo": "Carolingian Empire",
+        "movement": 3,
+        "strength": 10,
+        "rangedStrength": 12,
+        "cost": 56,
+        "requiredTech": "The Wheel",
+        "obsoleteTech": "Chivalry",
+        "uniques": [
+            "No defensive terrain bonus"
+        ],
+        "attackSound": "bowShoot"
+    },
+    {
+        "name": "Carolingian Siege Engine",
+        "replaces": "Catapult",
+        "unitType": "Siege",
+        "uniqueTo": "Carolingian Empire",
+        "movement": 2,
+        "strength": 12,
+        "rangedStrength": 14,
+        "cost": 100,
+        "requiredTech": "Mathematics",
+        "obsoleteTech": "Physics",
+        "uniques": [
+            "[+50]% Strength <when attacking> <vs cities>"
+        ],
+        "attackSound": "siege"
+    },
+    {
+        "name": "Carolingian Crossbowman",
+        "replaces": "Crossbowman",
+        "unitType": "Archery",
+        "uniqueTo": "Carolingian Empire",
+        "movement": 2,
+        "strength": 12,
+        "rangedStrength": 18,
+        "cost": 120,
+        "requiredTech": "Machinery",
+        "obsoleteTech": "Industrialization",
+        "uniques": [],
+        "attackSound": "bowShoot"
+    },
+    {
+        "name": "Carolingian Knight",
+        "replaces": "Knight",
+        "unitType": "Mounted",
+        "uniqueTo": "Carolingian Empire",
+        "movement": 5,
+        "strength": 25,
+        "cost": 180,
+        "requiredTech": "Chivalry",
+        "obsoleteTech": "Military Science",
+        "uniques": [
+            "Can move after attacking",
+            "[+10]% Strength <when attacking> <vs cities>"
+        ],
+        "attackSound": "cavalry"
+    }
+]
